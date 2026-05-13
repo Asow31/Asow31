@@ -1,6 +1,6 @@
 # Hi, I'm Abdoul Sow 👋
 
-System Engineer and Computer Science student with a background in Information Systems, focused on cybersecurity, scalable systems, and real-world application development.
+System Engineer and Computer Science student with a background in Information Systems, focused on cybersecurity, scalable systems, data analysis and engineering and real-world application development.
 
 ## 🚀 What I Do
 - System Engineering & IT Infrastructure
