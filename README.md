@@ -2,18 +2,18 @@
 
 Field Test Systems Engineer with hands-on experience in wireless systems, networking, cybersecurity, software development, and data analytics. I build, test, troubleshoot, and analyze real-world systems and applications using technologies including Flutter, Firebase, Python, SQL, and IoT platforms.
 ## 🚀 What I Do
-- System Engineering & IT Infrastructure
-- Cybersecurity Fundamentals & Security Practices
-- Mobile App Development (Flutter & Firebase)
-- Data Analysis (Python, SQL, Tableau, Excel)
+- System Engineering & Wireless Network Testing
+- Network Engineering & Troubleshooting
+- Cybersecurity & Information Security
+- Software & Mobile App Development (Flutter & Firebase)
+- Data Analysis & Visualization (Python, SQL, Tableau, Excel)
 - Backend Integration & APIs
-- IoT Systems & Monitoring
+- IoT Systems & Embedded Technologies
 
 ## 🔥 Featured Projects
 
-### Faso Market
-Mobile marketplace app for Burkina Faso (available on the App Store)  
-Built with Flutter and Firebase with real-time chat, authentication, and listing management.
+### Djamana MArket
+Production mobile marketplace application for iOS and Android built with Flutter and Firebase, featuring authentication, real-time messaging, listings, search, favorites, media uploads, lives, and user management.
 
 ### IoT Temperature & Humidity Monitor
 Real-time monitoring system using sensors and cloud integration for environmental tracking.
@@ -34,4 +34,5 @@ Predictive analytics project to understand customer behavior and improve retenti
 - Git, GitHub
 
 ## 📫 Contact
-- Email: abdoulrachidsow11@gmail.com
+- Email: abdoulrachidsow11@gmail.com 
+  
