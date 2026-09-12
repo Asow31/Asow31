@@ -1,7 +1,6 @@
 # Hi, I'm Abdoul Sow 👋
 
-System Engineer and Computer Science student with a background in Information Systems, focused on cybersecurity, scalable systems, data analysis and engineering and real-world application development.
-
+Field Test Systems Engineer with hands-on experience in wireless systems, networking, cybersecurity, software development, and data analytics. I build, test, troubleshoot, and analyze real-world systems and applications using technologies including Flutter, Firebase, Python, SQL, and IoT platforms.
 ## 🚀 What I Do
 - System Engineering & IT Infrastructure
 - Cybersecurity Fundamentals & Security Practices
